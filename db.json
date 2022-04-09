@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan ",
+      "telefono": "23564",
+      "empresa": "Comida rápida",
+      "correo": "correo@correo.com ",
+      "id": 2
+    },
+    {
+      "nombre": "Lulu",
+      "telefono": "123456",
+      "empresa": "Ruedas y mas velocidad",
+      "correo": "lulu@correo.com",
+      "id": 4
+    },
+    {
+      "nombre": "Irelia",
+      "telefono": "54698756",
+      "empresa": "Cuchillas de acero S.A",
+      "correo": "correo@correo.com ",
+      "id": 6
+    }
+  ]
+}
